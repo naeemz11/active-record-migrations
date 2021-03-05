@@ -6,3 +6,8 @@ task :console do
   ARGV.clear
   IRB.start
 end
+
+# DatabaseTasks.db_dir = 'db'
+# DatabaseTasks.migrations_paths = ['db/migrate']
+
+ 
